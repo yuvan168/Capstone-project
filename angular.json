@@ -60,10 +60,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "Iventory-Frontend:build:production"
+              "buildTarget": "Inventory:build:production"
             },
             "development": {
-              "buildTarget": "Iventory-Frontend:build:development"
+              "buildTarget": "Inventory:build:development"
             }
           },
           "defaultConfiguration": "development"
